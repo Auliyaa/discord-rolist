@@ -1,0 +1,3 @@
+[submodule "vendor/aegis.cpp"]
+	path = vendor/aegis.cpp
+	url = https://github.com/zeroxs/aegis.cpp.git
